@@ -35,19 +35,6 @@
 
 <br>
 
-### stats
-
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuarkenzh1bekov&theme=github_dark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuarkenzh1bekov&theme=github_dark" />
-</p>
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuarkenzh1bekov&theme=github_dark&utcOffset=6" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuarkenzh1bekov&theme=github_dark" />
-</p>
-
-<br>
-
 ### snake
 
 <img src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/github-contribution-grid-snake.svg" alt="snake" />
