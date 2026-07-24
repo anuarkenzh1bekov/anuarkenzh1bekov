@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Anuar;AI+Engineer+%C2%B7+Astana;building+with+LLMs" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Anuar;Data+Scientist+%C2%B7+Astana;turning+data+into+decisions" alt="typing" />
 </h1>
 
 <br>
@@ -8,9 +8,9 @@
 
 ```py
 {
-  "role":     "AI Engineer",
+  "role":     "Data Scientist",
   "based_in": "Astana, KZ",
-  "focus":    ["RAG", "agents", "embeddings"],
+  "focus":    ["ML", "analytics", "NLP", "experimentation"],
   "learning": "always"
 }
 ```
@@ -22,11 +22,13 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
@@ -36,12 +38,12 @@
 ### stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuardev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuardev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuarkenzh1bekov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&icon_color=22C55E&title_color=22C55E&text_color=94a3b8" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuarkenzh1bekov&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=22C55E&text_color=94a3b8&langs_count=6" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuardev&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuarkenzh1bekov&theme=github-compact&color=22C55E&line=22C55E&point=22C55E&hide_border=true&area=true" />
 </p>
 
 <br>
