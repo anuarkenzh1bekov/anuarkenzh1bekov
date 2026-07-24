@@ -5,7 +5,7 @@
 
 <br>
 
-### stack
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
