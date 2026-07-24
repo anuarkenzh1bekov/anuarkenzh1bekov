@@ -38,8 +38,12 @@
 ### stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuarkenzh1bekov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E&text_color=94a3b8" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuarkenzh1bekov&layout=compact&hide_border=true&bg_color=0d1117&title_color=22C55E&text_color=94a3b8&langs_count=6" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuarkenzh1bekov&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuarkenzh1bekov&theme=github_dark" />
+</p>
+<p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuarkenzh1bekov&theme=github_dark&utcOffset=6" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuarkenzh1bekov&theme=github_dark" />
 </p>
 
 <br>
