@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=520&lines=hey%2C+I%27m+Anuar;Data+Scientist+%C2%B7+Astana;turning+data+into+decisions;it+works%2C+don%27t+touch+it" alt="typing" />
 </h1>
 
+<p align="center">
+  <sub>AI &amp; Data Science Undergraduate · ML Engineer &amp; Model Deployment</sub>
+</p>
+
 <br>
 
 ### Tech stack
