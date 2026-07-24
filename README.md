@@ -20,18 +20,15 @@
 ### stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Bash-1e293b?style=flat-square&logo=gnubash&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/LangGraph-1e293b?style=flat-square&logo=langchain&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/OpenAI-1e293b?style=flat-square&logo=openai&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/HuggingFace-1e293b?style=flat-square&logo=huggingface&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Weaviate-1e293b?style=flat-square&logo=weaviate&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <br>
@@ -39,15 +36,13 @@
 ### stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuardev&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&icon_color=A78BFA&text_color=94a3b8&hide=contribs" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuardev&layout=compact&hide_border=true&theme=transparent&text_color=94a3b8&title_color=A78BFA&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuardev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuardev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </p>
 
-<br>
-
-### activity
-
-<img src="https://raw.githubusercontent.com/anuardev/anuardev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuardev&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 <br>
 
