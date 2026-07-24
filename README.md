@@ -38,13 +38,15 @@
 ### stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuarkenzh1bekov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&icon_color=22C55E&title_color=22C55E&text_color=94a3b8" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuarkenzh1bekov&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=22C55E&text_color=94a3b8&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuarkenzh1bekov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E&text_color=94a3b8" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuarkenzh1bekov&layout=compact&hide_border=true&bg_color=0d1117&title_color=22C55E&text_color=94a3b8&langs_count=6" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuarkenzh1bekov&theme=github-compact&color=22C55E&line=22C55E&point=22C55E&hide_border=true&area=true" />
-</p>
+<br>
+
+### snake
+
+<img src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/github-contribution-grid-snake.svg" alt="snake" />
 
 <br>
 
