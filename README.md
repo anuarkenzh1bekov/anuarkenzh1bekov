@@ -1,3 +1,3 @@
 # work in progress
 
-personal space for code & experiments
+Personal space for code & experiments
