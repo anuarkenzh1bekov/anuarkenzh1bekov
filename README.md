@@ -23,7 +23,7 @@
 
 <br>
 
-### breakout
+### Activity
 
 <img src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/breakout-contribution-graph.svg" alt="breakout" />
 
