@@ -26,9 +26,4 @@
 
 <img src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/breakout-contribution-graph.svg" alt="breakout" />
 
-<br>
 
-<sub>
-  <a href="mailto:kenzhibekovanuar@gmail.com">mail</a> ·
-  <a href="https://www.linkedin.com/in/anuar-kenzhibekov">linkedin</a>
-</sub>
