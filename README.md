@@ -28,6 +28,6 @@
 
 ### Activity
 
-<img src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/breakout-contribution-graph.svg" alt="breakout" />
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/breakout-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/breakout-contribution-graph.svg"> <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/output/breakout-contribution-graph.svg"> </picture>
 
 
