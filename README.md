@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/main/typing.svg?v=2" alt="hey, I'm Anuar. I build websites" />
+  <img src="https://raw.githubusercontent.com/anuarkenzh1bekov/anuarkenzh1bekov/main/typing.svg?v=3" alt="hey, I'm Anuar. I build websites" />
 </h1>
 
 <p align="center">
