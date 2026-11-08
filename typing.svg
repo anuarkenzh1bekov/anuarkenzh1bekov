@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50" viewBox="0 0 600 50">
+  <style>
+    text { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 22px; font-weight: 500; fill: #22C55E; }
+    .cur { fill: #22C55E; }
+
+    .w1, .w2, .w3, .w4, .slot1, .slot2, .slot3, .slot4 { animation-duration: 16s; animation-iteration-count: infinite; }
+    .w1, .slot1 { animation-delay: 0s; }
+    .w2, .slot2 { animation-delay: -12s; }
+    .w3, .slot3 { animation-delay: -8s; }
+    .w4, .slot4 { animation-delay: -4s; }
+
+    .w1, .w2 { animation-name: k14; }
+    .w3 { animation-name: k24; }
+    .w4 { animation-name: k15; }
+    .slot1, .slot2, .slot3, .slot4 { animation-name: slot; }
+
+    @keyframes k14 {
+      0%     { transform: translateX(-184.8px); animation-timing-function: steps(14, end); }
+      8.75%  { transform: translateX(0); }
+      17.5%  { transform: translateX(0); animation-timing-function: steps(14, end); }
+      21.25% { transform: translateX(-184.8px); }
+      100%   { transform: translateX(-184.8px); }
+    }
+    @keyframes k24 {
+      0%     { transform: translateX(-316.8px); animation-timing-function: steps(24, end); }
+      8.75%  { transform: translateX(0); }
+      17.5%  { transform: translateX(0); animation-timing-function: steps(24, end); }
+      21.25% { transform: translateX(-316.8px); }
+      100%   { transform: translateX(-316.8px); }
+    }
+    @keyframes k15 {
+      0%     { transform: translateX(-198px); animation-timing-function: steps(15, end); }
+      8.75%  { transform: translateX(0); }
+      17.5%  { transform: translateX(0); animation-timing-function: steps(15, end); }
+      21.25% { transform: translateX(-198px); }
+      100%   { transform: translateX(-198px); }
+    }
+    @keyframes slot {
+      0%, 24.9% { opacity: 1; }
+      25%, 100% { opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .blink { animation: blink 1s steps(1, end) infinite; }
+  </style>
+
+  <defs>
+    <clipPath id="c1"><rect class="w1" x="260.6" y="0" width="184.8" height="50"/></clipPath>
+    <clipPath id="c2"><rect class="w2" x="260.6" y="0" width="184.8" height="50"/></clipPath>
+    <clipPath id="c3"><rect class="w3" x="260.6" y="0" width="316.8" height="50"/></clipPath>
+    <clipPath id="c4"><rect class="w4" x="260.6" y="0" width="198" height="50"/></clipPath>
+  </defs>
+
+  <text x="23" y="32" textLength="224.4" lengthAdjust="spacingAndGlyphs">hey, I'm Anuar. I</text>
+
+  <text x="260.6" y="32" textLength="184.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">build websites</text>
+  <text x="260.6" y="32" textLength="184.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">make solutions</text>
+  <text x="260.6" y="32" textLength="316.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">turn data into decisions</text>
+  <text x="260.6" y="32" textLength="198" lengthAdjust="spacingAndGlyphs" clip-path="url(#c4)">train ML models</text>
+
+  <g class="slot1"><g class="w1"><rect class="cur blink" x="447.4" y="13" width="2.5" height="24"/></g></g>
+  <g class="slot2"><g class="w2"><rect class="cur blink" x="447.4" y="13" width="2.5" height="24"/></g></g>
+  <g class="slot3"><g class="w3"><rect class="cur blink" x="579.4" y="13" width="2.5" height="24"/></g></g>
+  <g class="slot4"><g class="w4"><rect class="cur blink" x="460.6" y="13" width="2.5" height="24"/></g></g>
+</svg>
